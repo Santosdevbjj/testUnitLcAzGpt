@@ -1,0 +1,12 @@
+# Exclui o arquivo .env com as chaves de API
+.env
+
+# Exclui o cache do pytest
+.pytest_cache/
+
+# Exclui o cache do Python
+__pycache__/
+
+# Exclui ambientes virtuais
+venv/
+.venv/ 
