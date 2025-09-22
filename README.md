@@ -25,13 +25,13 @@ O objetivo é aumentar a produtividade e a cobertura de código, garantindo mais
 ## Funcionalidades
 
 - **Agente de IA:** Implementado em Python com LangChain e Azure OpenAI.
-- 
+  
 - **Entrada:** Um arquivo Python contendo funções ou classes.
-- 
+  
 - **Saída:** Um arquivo de testes (`test_<nome>.py`) com o código Python gerado.
-- 
+  
 - **Testes Automáticos:** O agente cria testes para casos de sucesso e, quando aplicável, para tratamento de erros e exceções.
-- 
+  
 - **Integração:** Os testes gerados são compatíveis com o `pytest` e podem ser executados diretamente.
 
   ---
